@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Speedrunner007
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning discord.py
-- 💞️ I’m currently making a discord music bot called Viola
+- 🌱 I’m currently learning discord.py and discord.js
+- 💞️ I’m currently making a discord music bot like Rythm
 - 📫 How to reach me: Discord(Speedrunner007#1684), Email(jayahemanth07@gmail.com)
 
 <!---
